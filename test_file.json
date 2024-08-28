@@ -1,0 +1,8 @@
+{
+    "key1": 10,
+    "key2": {
+        "key3": "value3",
+        "destination": "1235u25"
+    },
+    "key4": [1, 2, {"destination": "anotherValue"}]
+}
